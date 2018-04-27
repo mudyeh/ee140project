@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("ee140_gsi" "ee140_pga_tb" "schematic" "spectre")
+descriptionText = "None"
