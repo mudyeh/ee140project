@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee140-aah
+HostName                       hpse-10.EECS.Berkeley.EDU
+ProcessIdentifier              3503
+ProcessCreationTime_UTC        1522379330
+ProcessCreationTime_Readable   Thu Mar 29 20:08:50 2018 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cc/ee140/sp18/class/ee140-aah/cadence/Lab4_1/thing/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Apr  2 09:58:51 2018 PDT
